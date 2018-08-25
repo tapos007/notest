@@ -1,0 +1,9 @@
+C:\Users\R041705033\Desktop\nopcc\Presentation\Nop.Web\Plugins\Widgets.PromoSlider\plugin.json
+C:\Users\R041705033\Desktop\nopcc\Presentation\Nop.Web\Plugins\Widgets.PromoSlider\Nop.Plugin.Widgets.PromoSlider.deps.json
+C:\Users\R041705033\Desktop\nopcc\Presentation\Nop.Web\Plugins\Widgets.PromoSlider\Nop.Plugin.Widgets.PromoSlider.dll
+C:\Users\R041705033\Desktop\nopcc\Presentation\Nop.Web\Plugins\Widgets.PromoSlider\Nop.Plugin.Widgets.PromoSlider.pdb
+C:\Users\R041705033\Desktop\nopcc\Plugins\Nop.Plugin.Widgets.PromoSlider\obj\Debug\netcoreapp2.1\Nop.Plugin.Widgets.PromoSlider.csproj.CoreCompileInputs.cache
+C:\Users\R041705033\Desktop\nopcc\Plugins\Nop.Plugin.Widgets.PromoSlider\obj\Debug\netcoreapp2.1\Nop.Plugin.Widgets.PromoSlider.AssemblyInfoInputs.cache
+C:\Users\R041705033\Desktop\nopcc\Plugins\Nop.Plugin.Widgets.PromoSlider\obj\Debug\netcoreapp2.1\Nop.Plugin.Widgets.PromoSlider.AssemblyInfo.cs
+C:\Users\R041705033\Desktop\nopcc\Plugins\Nop.Plugin.Widgets.PromoSlider\obj\Debug\netcoreapp2.1\Nop.Plugin.Widgets.PromoSlider.dll
+C:\Users\R041705033\Desktop\nopcc\Plugins\Nop.Plugin.Widgets.PromoSlider\obj\Debug\netcoreapp2.1\Nop.Plugin.Widgets.PromoSlider.pdb

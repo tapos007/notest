@@ -1,0 +1,15 @@
+C:\Users\R041705033\Desktop\nopcc\Presentation\Nop.Web.Framework\bin\Debug\netcoreapp2.1\Nop.Web.Framework.deps.json
+C:\Users\R041705033\Desktop\nopcc\Presentation\Nop.Web.Framework\bin\Debug\netcoreapp2.1\Nop.Web.Framework.dll
+C:\Users\R041705033\Desktop\nopcc\Presentation\Nop.Web.Framework\bin\Debug\netcoreapp2.1\Nop.Web.Framework.pdb
+C:\Users\R041705033\Desktop\nopcc\Presentation\Nop.Web.Framework\bin\Debug\netcoreapp2.1\Nop.Core.dll
+C:\Users\R041705033\Desktop\nopcc\Presentation\Nop.Web.Framework\bin\Debug\netcoreapp2.1\Nop.Data.dll
+C:\Users\R041705033\Desktop\nopcc\Presentation\Nop.Web.Framework\bin\Debug\netcoreapp2.1\Nop.Services.dll
+C:\Users\R041705033\Desktop\nopcc\Presentation\Nop.Web.Framework\bin\Debug\netcoreapp2.1\Nop.Core.pdb
+C:\Users\R041705033\Desktop\nopcc\Presentation\Nop.Web.Framework\bin\Debug\netcoreapp2.1\Nop.Data.pdb
+C:\Users\R041705033\Desktop\nopcc\Presentation\Nop.Web.Framework\bin\Debug\netcoreapp2.1\Nop.Services.pdb
+C:\Users\R041705033\Desktop\nopcc\Presentation\Nop.Web.Framework\obj\Debug\netcoreapp2.1\Nop.Web.Framework.csprojResolveAssemblyReference.cache
+C:\Users\R041705033\Desktop\nopcc\Presentation\Nop.Web.Framework\obj\Debug\netcoreapp2.1\Nop.Web.Framework.csproj.CoreCompileInputs.cache
+C:\Users\R041705033\Desktop\nopcc\Presentation\Nop.Web.Framework\obj\Debug\netcoreapp2.1\Nop.Web.Framework.AssemblyInfoInputs.cache
+C:\Users\R041705033\Desktop\nopcc\Presentation\Nop.Web.Framework\obj\Debug\netcoreapp2.1\Nop.Web.Framework.AssemblyInfo.cs
+C:\Users\R041705033\Desktop\nopcc\Presentation\Nop.Web.Framework\obj\Debug\netcoreapp2.1\Nop.Web.Framework.dll
+C:\Users\R041705033\Desktop\nopcc\Presentation\Nop.Web.Framework\obj\Debug\netcoreapp2.1\Nop.Web.Framework.pdb

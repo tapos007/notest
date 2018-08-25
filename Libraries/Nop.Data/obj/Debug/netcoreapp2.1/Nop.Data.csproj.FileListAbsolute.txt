@@ -1,0 +1,11 @@
+C:\Users\R041705033\Desktop\nopcc\Libraries\Nop.Data\bin\Debug\netcoreapp2.1\Nop.Data.deps.json
+C:\Users\R041705033\Desktop\nopcc\Libraries\Nop.Data\bin\Debug\netcoreapp2.1\Nop.Data.dll
+C:\Users\R041705033\Desktop\nopcc\Libraries\Nop.Data\bin\Debug\netcoreapp2.1\Nop.Data.pdb
+C:\Users\R041705033\Desktop\nopcc\Libraries\Nop.Data\bin\Debug\netcoreapp2.1\Nop.Core.dll
+C:\Users\R041705033\Desktop\nopcc\Libraries\Nop.Data\bin\Debug\netcoreapp2.1\Nop.Core.pdb
+C:\Users\R041705033\Desktop\nopcc\Libraries\Nop.Data\obj\Debug\netcoreapp2.1\Nop.Data.csprojResolveAssemblyReference.cache
+C:\Users\R041705033\Desktop\nopcc\Libraries\Nop.Data\obj\Debug\netcoreapp2.1\Nop.Data.csproj.CoreCompileInputs.cache
+C:\Users\R041705033\Desktop\nopcc\Libraries\Nop.Data\obj\Debug\netcoreapp2.1\Nop.Data.AssemblyInfoInputs.cache
+C:\Users\R041705033\Desktop\nopcc\Libraries\Nop.Data\obj\Debug\netcoreapp2.1\Nop.Data.AssemblyInfo.cs
+C:\Users\R041705033\Desktop\nopcc\Libraries\Nop.Data\obj\Debug\netcoreapp2.1\Nop.Data.dll
+C:\Users\R041705033\Desktop\nopcc\Libraries\Nop.Data\obj\Debug\netcoreapp2.1\Nop.Data.pdb
